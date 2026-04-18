@@ -1,0 +1,9 @@
+{
+  "name": "Poco",
+  "description": "A vibrant lifestyle social app combining shopping, real-time chat, and custom avatar creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
